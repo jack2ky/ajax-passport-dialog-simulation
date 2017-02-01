@@ -1,0 +1,9 @@
+.authenticationArea{
+    background: lightgrey;
+}
+.hidden{
+    display: none;
+}
+.visible{
+    display: block;
+}
